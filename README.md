@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BTCbodhisattva
-- 👀 I’m interested in ... Pre-sales Engineering & DevOps
+- 👀 I’m interested in ... DevOps, Cloud Infra, ML/AI
 - 🌱 I’m currently learning ... Python
 - 📫 How to reach me ... jesse.cloudops@gmail.com
 
